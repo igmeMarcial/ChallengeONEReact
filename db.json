@@ -1,0 +1,146 @@
+{
+  "categorias": [
+    {
+      "titulo": "Programación",
+      "colorPrimario": "#57C278",
+      "colorSecundario": "#D9F7E9"
+    },
+    {
+      "titulo": "Front End",
+      "colorPrimario": "#82CFFA",
+      "colorSecundario": "#E8F8FF"
+    },
+    {
+      "titulo": "Data Science",
+      "colorPrimario": "#A6D157",
+      "colorSecundario": "#F0F8E2"
+    },
+    {
+      "titulo": "Devops",
+      "colorPrimario": "#E06B69",
+      "colorSecundario": "#FDE7E8"
+    },
+    {
+      "titulo": "UX y Diseño",
+      "colorPrimario": "#DB6EBF",
+      "colorSecundario": "#FAE9F5"
+    },
+    {
+      "titulo": "Móvil",
+      "colorPrimario": "#FFBA05",
+      "colorSecundario": "#FFF5D9"
+    },
+    {
+      "titulo": "Innovación y Gestión",
+      "colorPrimario": "#FF8A29",
+      "colorSecundario": "#FFEEDF"
+    },
+    {
+      "titulo": "Administrador",
+      "colorPrimario": "#26e884",
+      "colorSecundario": "#e8d368",
+      "id": "371e073e-c864-4b70-81fd-4885e076985e"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/2AFZDxg3Aww?si=6FYD8tffOrrvTS3S",
+      "metadescription": "Utiliza las herramientas ideales para bañar a tu perro",
+      "body": "La mayoría de los perros prefieren saltarse la hora del baño, pero el baño juega un papel importante en la salud del pelaje y la piel de su perro, ya que ayuda a mantenerla limpia y libre de suciedad y parásitos. Tener los productos adecuados puede ayudarlo a sentirse más cómodo.",
+      "categoria": "Front End",
+      "subcategoria": "higiene"
+    },
+    {
+      "id": 2,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/bMknfKXIFA8?si=qHn3foFn0JWKWjbs",
+      "metadescription": "El baño que tu cachorro merece",
+      "body": "Los tapetes higiénicos son una innovación en el mercado de las mascotas, perfectas para que tu perro haga sus necesidades con comodidad y sin ensuciar la casa. Son productos desechables o lavables que garantizan la comodidad de tu mascota.",
+      "categoria": "Devops",
+      "subcategoria": "higiene"
+    },
+    {
+      "id": 3,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/1vKiPwEYbyk?si=5Z0XbGYOARbkdNTy",
+      "metadescription": "Es necesario evitar que tus mascotas contraigan estos parásitos",
+      "body": "No es la mordedura, sino la reacción alérgica a ella lo que hace que tu perro sienta comezón. Algunas mascotas son hipersensibles a las pulgas y pueden tener una reacción grave con solo un mordisco. Sin embargo, todas las mascotas experimentarán molestias por las picaduras de pulgas. Entonces, tan pronto como veas rasguños repetidos, sospeche de las pulgas.",
+      "categoria": "Front End",
+      "subcategoria": "salud"
+    },
+    {
+      "id": 4,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/6bxWgYfN4CQ?si=06vOHwx8evysYzwH",
+      "metadescription": "El cambio de rutina puede ser el mayor factor.",
+      "body": "Talvez eres de las personas que le dan atención adicional, pero cuando tienes que ir a la oficina o a realizar alguna actividad lo dejas en tu casa, causandole esa falta de atención que le brindas constantemente, lo ideal es mimarlos en la medida cierta. Debido a la pandemia hemos estado más presentes en nuestro hogar lo cuál puede acostumbrar a tu mascota a estar más tiempo contigo.",
+      "categoria": "Data Science",
+      "subcategoria": "educacion"
+    },
+    {
+      "id": 5,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/G-Cr00UYokU?si=WZiE1bOb7ZF8Pe8y",
+      "metadescription": "La socialización es un grande factor en este aprendizaje.",
+      "body": "Solo se puede enseñar a un perro a dejar de tener miedo aumentando su confianza en sí mismo. Esto significa cambiar la forma en que reacciona su mente en determinadas situaciones y convertir las asociaciones negativas en positivas. Hacer esto requiere mucha paciencia y una serie de exposiciones controladas al evento u objeto temido, pero lo suficientemente lejos como para que el perro no se sienta ansioso.",
+      "categoria": "Data Science",
+      "subcategoria": "educacion"
+    },
+    {
+      "id": 6,
+      "title": "Movies App - React Project",
+      "image": "https://www.youtube.com/embed/sZ0bZGfg_m4?si=Co8oDxvwOo_dC34K",
+      "metadescription": "El ronroneo es una señal de aviso.",
+      "body": "Una cosa que los científicos saben con certeza es que la parte del cerebro del gato que controla las vocalizaciones está muy conectada con la parte del cerebro que controla las emociones del gato. Entonces, lo que el gato está “diciendo” es absolutamente un reflejo de como se siente.",
+      "categoria": "comportamiento",
+      "subcategoria": "entrenamiento"
+    },
+    {
+      "id": 7,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/bmpI252DmiI?si=4lWDSooX6oS6qQc6",
+      "metadescription": "Si, tu puedes entrenar a tu gato y es mucho más fácil de lo que pensabas.",
+      "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
+      "categoria": "Devops",
+      "subcategoria": "entrenamiento"
+    },
+    {
+      "id": 9,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/bmpI252DmiI?si=4lWDSooX6oS6qQc6",
+      "metadescription": "Si, tu puedes entrenar a tu gato y es mucho más fácil de lo que pensabas.",
+      "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
+      "categoria": "Devops",
+      "subcategoria": "entrenamiento"
+    },
+    {
+      "id": 10,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/bmpI252DmiI?si=4lWDSooX6oS6qQc6",
+      "metadescription": "Si, tu puedes entrenar a tu gato y es mucho más fácil de lo que pensabas.",
+      "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
+      "categoria": "Data Science",
+      "subcategoria": "entrenamiento"
+    },
+    {
+      "id": 11,
+      "title": "React Project Tutorial ",
+      "image": "https://www.youtube.com/embed/bmpI252DmiI?si=4lWDSooX6oS6qQc6",
+      "metadescription": "Si, tu puedes entrenar a tu gato y es mucho más fácil de lo que pensabas.",
+      "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
+      "categoria": "Front End",
+      "subcategoria": "entrenamiento"
+    },
+    {
+      "id": "f72a69ba-326f-4de3-a374-b5557c6b42f5",
+      "title": "Marcial Igme",
+      "image": "https://www.youtube.com/embed/Ae33_gdJgnQ?si=4723SeHre9jPuMp9",
+      "metadescription": "Tha life es difficult",
+      "body": "ereee",
+      "categoria": "Front End",
+      "subcategoria": "HTML/CSS"
+    }
+  ]
+}

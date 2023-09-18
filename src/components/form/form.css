@@ -1,0 +1,22 @@
+.inputForm {
+  width: 70%;
+}
+.btnRegister {
+  width: 50%;
+}
+.containerForm {
+  padding: 40px 0;
+}
+.selectInput {
+  margin-bottom: 8px;
+  margin-top: 8px;
+  width: 100%;
+}
+.colorSelect {
+}
+.colorDiv {
+  width: 100px;
+  height: 100px;
+
+  color: brown;
+}

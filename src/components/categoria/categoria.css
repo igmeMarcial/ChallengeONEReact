@@ -1,0 +1,8 @@
+.titleSection {
+  display: inline-block;
+  padding: 12px;
+  border-radius: 0.5rem;
+  margin: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
